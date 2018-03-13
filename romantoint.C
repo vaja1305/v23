@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<string.h>
-int main(void) 
+int main() 
 {
 int i,k,len,n[7];
 char roman[7];
